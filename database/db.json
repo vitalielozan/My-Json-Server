@@ -22,6 +22,18 @@
       "email": "email@exemle.com",
       "messaje": "Hallo!!!",
       "id": 2
+    },
+    {
+      "name": "Ion Badiu",
+      "email": "test@gmail.com",
+      "messaje": "Hallo!!",
+      "id": 3
+    },
+    {
+      "name": "Mihai Ababi",
+      "email": "ababi@exemple.com",
+      "messaje": "SALUTAREE!",
+      "id": 4
     }
   ]
 }
