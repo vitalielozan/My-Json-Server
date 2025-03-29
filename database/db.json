@@ -49,7 +49,26 @@
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
     }
   ],
-  "formular": [],
+  "formular": [
+    {
+      "name": "Andrei Popa",
+      "email": "popa@exemple.com",
+      "messaje": "Salutare!!!",
+      "id": 1
+    },
+    {
+      "name": "Lother Matheus",
+      "email": "matheus@exemple.com",
+      "messaje": "Hallo!!!",
+      "id": 2
+    },
+    {
+      "name": "Jon Doe",
+      "email": "doe@exemple.com",
+      "messaje": "Hello!!!",
+      "id": 3
+    }
+  ],
   "vahiculs": [],
   "tasks": [
     {
