@@ -77,9 +77,25 @@
       "id": 1
     },
     {
-      "task": "Programare la Primarie",
-      "data": "2025-05-05",
+      "task": "Mergem la bunei",
+      "data": "2025-04-12",
       "id": 2
+    },
+    {
+      "task": "Termin Landratsamt",
+      "data": "2025-05-05",
+      "id": 3
+    },
+    {
+      "task": "Termin Zulasungstelle",
+      "data": "2025-06-02",
+      "id": 4
+    },
+    {
+      "task": "Mergem in vacanta",
+      "data": "2025-08-02",
+      "id": 5
     }
-  ]
+  ],
+  "isComplete": []
 }
