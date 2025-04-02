@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Exersare Json-Server</title>
+</head>
+
+<body>
+  <div class="page-container">
+    <form id="myForm" class="my-form" action="" method="post">
+      <label for="name">Numele</label>
+      <input type="text" name="name" autocomplete="given-name" id="name">
+      <label for="email">Email</label>
+      <input type="email" name="email" autocomplete="email" id="email">
+      <label for="messaje">Messaje</label>
+      <textarea name="messaje" id="messaje"></textarea>
+      <button class="btn-submit" type="submit" form="myForm" value="Submit">Trimite</button>
+    </form>
+    <button id="btnLoad" class="btn-load">Incarca datele</button>
+    <ul id="dataList">
+
+    </ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
