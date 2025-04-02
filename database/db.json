@@ -2,13 +2,5 @@
   "fotos": [],
   "formular": [],
   "vahiculs": [],
-  "tasks": [
-    {
-      "task": "Mergem in Vacanta",
-      "data": "2025-08-02",
-      "isComlete": false,
-      "id": 1,
-      "isComplete": false
-    }
-  ]
+  "tasks": []
 }
