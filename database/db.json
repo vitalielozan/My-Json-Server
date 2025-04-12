@@ -5,6 +5,12 @@
       "email": "francu@example.com",
       "message": "Salutare Shefu!!!",
       "id": 1
+    },
+    {
+      "name": "Marius Grancea",
+      "email": "grancea@example.com",
+      "message": "Buna ziua Shefu!!!",
+      "id": 2
     }
   ],
   "vehiculs": [],
