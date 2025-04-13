@@ -14,5 +14,83 @@
     }
   ],
   "vehiculs": [],
-  "tasks": []
+  "tasks": [],
+  "fotos": [
+    {
+        "id":11,
+        "srcThumbnail":"/images/dusen.jpg",
+        "srcImage":"/images/dusenDetail.jpeg",
+        "title":"Papilio mariposa lepidoptera",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": [
+            {
+                "id": 1,
+                "name": "John Doe",
+                "comment": "This is a great photo!"
+            },
+            {
+                "id": 2,
+                "name": "Jane Smith",
+                "comment": "I love the colors in this one."
+            }
+        ]
+    },
+    {
+        "id":22,
+        "srcThumbnail":"/images/dusenberry.jpg",
+        "srcImage":"/images/dusenberryDetail.jpeg",
+        "title":"Papilio machaon",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": []
+    },
+    {
+        "id":33,
+        "srcThumbnail":"/images/ekamelev.jpg",
+        "srcImage":"/images/ekamelevDetail.jpeg",
+        "title":"Papilio demoleus",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": []
+    },
+    {
+        "id":44,
+        "srcThumbnail":"/images/insectus.jpg",
+        "srcImage":"/images/insectusDetail.jpeg",
+        "title":"Papilio glaucus",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": [
+            {
+                "id": 3,
+                "name": "Alice Johnson",
+                "comment": "Amazing shot! The detail is incredible."
+            },
+            {
+                "id": 4,
+                "name": "Bob Brown",
+                "comment": "I want to learn how to take photos like this."
+            }
+        ]
+    },
+    {
+        "id":55,
+        "srcThumbnail":"/images/karits.jpg",
+        "srcImage":"/images/karitsDetail.jpeg",
+        "title":"Papilio demodocus",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": []
+    },
+    {
+        "id":66,
+        "srcThumbnail":"/images/samsuddoha.jpg",
+        "srcImage":"/images/samsuddohaDetail.jpeg",
+        "title":"Papilio xuthus",
+        "shortDesc":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "comments": []
+    }
+ ]
 }
