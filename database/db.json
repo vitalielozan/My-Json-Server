@@ -19,7 +19,22 @@
       "id": 3
     }
   ],
-  "vehiculs": [],
+  "vehiculs": [
+    {
+      "marca": "VW",
+      "model": "Passat",
+      "an": 2016,
+      "tipCaroserie": "variant",
+      "id": 1
+    },
+    {
+      "marca": "Audi",
+      "model": "A4",
+      "an": 2017,
+      "tipCaroserie": "variant",
+      "id": 2
+    }
+  ],
   "tasks": [],
   "fotos": [
     {
